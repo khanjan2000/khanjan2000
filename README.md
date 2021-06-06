@@ -34,7 +34,7 @@
 <br />
 <br />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj6198&show_icons=true&include_all_commits=true&theme=radical" alt="Vraj's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khanjan2000&show_icons=true&include_all_commits=true&theme=radical" alt="Khanjan's github stats" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vraj6198&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanjan2000&layout=compact&theme=radical" />
 
