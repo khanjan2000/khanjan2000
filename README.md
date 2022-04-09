@@ -2,10 +2,10 @@
 
 <br />
 
-- 🔭 I’m currently working on IOS and Embedded Development.
+- 🔭 I’m currently working on Python and Embedded Development.
 - 🌱 I’m currently learning Everything.
-- 👯 I’m looking to collaborate on IOS Dev.
-- 🤔 I’m looking for help with Embedded & IOS Devlopment.
+- 👯 I’m looking to collaborate on Python Dev.
+- 🤔 I’m looking for help with Embedded & Python Devlopment.
 - 📫 How to reach me: kdvaidya56@gmail.com
 
 **Languages and Tools:**  
